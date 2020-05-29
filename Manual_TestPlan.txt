@@ -1,0 +1,55 @@
+Monthly Cost:
+-------------
+Happy path scenarios:
+1.Verify user is able to enter more than one decimal point in Interest rate (%) field
+2.Verify user is able to select the values from the Mortgage period (years) dropdown field
+3.Verify user is able to enter a value >0 in the Mortgage amount field
+4.Verify user is able to enter a value >=0 in the Interest rate (%) field
+5.Verify Total cost of mortgage is displayed based on Mortgage amount 
+6.Verify Monthly payments is displayed based on Total cost of mortgage % number of months (mortgage period years / 12).
+7.Verify user is able to enter more than one decimal point in mortgage amount field
+8.verify user is able to enter mortgage amount without a decimal point
+
+Negative scenarios:
+1.Verify negative numbers are not allowed in fields Mortgage amount and Interest rate (%)
+2.Verify characters or special characters are not allowed in fields Mortgage amount and Interest rate (%)
+3.verify if values =0 for Mortgage amount and Interest rate (%),even by choosing value for mortgage period. total cost of mortgage and monthly payments are set to 0
+
+--------------
+Maximum loan:
+--------------
+Happy path scenarios:
+1.Verify user is able to enter more than one decimal point in Interest rate (%) field
+2.Verify user is able to select the values from the Mortgage period (years) dropdown field
+3.Verify user is able to enter a value >0 in the Monthly payments field
+4.Verify user is able to enter more than one decimal point in the Monthly payments field
+5.Verify user is able to enter a value >=0 in the Interest rate (%) field
+6.Verify Total cost of mortgage is displayed based on Mortgage amount 
+7.Verify 'You could borrow' is displayed based on inputs of fields
+
+Negative scenarios:
+1.Verify negative numbers are not allowed in fields Monthly payments and Interest rate (%)
+2.Verify characters or special characters are not allowed in fields Monthly payments and Interest rate (%) 
+----------------------------------------------------------------------------------------------------------
+
+Below are some requirement clarifications I would ask BA/project manager:
+
+Monthly Cost tab:
+- Upto how many decimal points are allowed in Interest rate (%) field?
+- Any hard limitations on how many number a user can enter in Mortgage amount field?
+- Monthly payments are rounding off to the nearest value?
+- Minimum Mortgage period (years) is 10?
+- Mortgage amount can be 0?
+
+
+Maximum loan tab:
+- Upto how many decimal points are allowed in Monthly payments field?
+- Upto how many decimal points are allowed in Interest rate (%) field?
+- Minimum Mortgage period (years) is 10?
+- Monthly payments can be 0?
+
+
+I have automated Monthly Cost happy path scenarios: 1,2,4,5,6 and I would consider automating other scenarios as well 
+except entering special characters and negative numbers as the input parameters are currently accepting only positive numbers. 
+
+Note: I have attached screenshots of the test execution against my local machine.

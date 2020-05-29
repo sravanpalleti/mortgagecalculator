@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21209" started-at="2020-05-28T15:46:29 EDT" finished-at="2020-05-28T15:46:50 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21209" started-at="2020-05-28T15:46:29 EDT" finished-at="2020-05-28T15:46:50 EDT">
+      <class name="org.nyiso.tests.MortgageCalculator">
+        <test-method status="PASS" signature="intializeSetUp()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="intializeSetUp" is-config="true" duration-ms="55" started-at="2020-05-28T15:46:29 EDT" finished-at="2020-05-28T15:46:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeSetUp -->
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="setupBrowser" is-config="true" duration-ms="5696" started-at="2020-05-28T15:46:29 EDT" finished-at="2020-05-28T15:46:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="GotoMortgageCalculator()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="GotoMortgageCalculator" is-config="true" duration-ms="1347" started-at="2020-05-28T15:46:34 EDT" finished-at="2020-05-28T15:46:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoMortgageCalculator -->
+        <test-method status="PASS" signature="TC1_calculateMortgageWithIntegerValues()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="TC1_calculateMortgageWithIntegerValues" duration-ms="1319" started-at="2020-05-28T15:46:36 EDT" finished-at="2020-05-28T15:46:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_calculateMortgageWithIntegerValues -->
+        <test-method status="PASS" signature="GotoMortgageCalculator()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="GotoMortgageCalculator" is-config="true" duration-ms="1228" started-at="2020-05-28T15:46:37 EDT" finished-at="2020-05-28T15:46:38 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoMortgageCalculator -->
+        <test-method status="PASS" signature="TC2_calculateMortgageWithDoubleValues()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="TC2_calculateMortgageWithDoubleValues" duration-ms="2008" started-at="2020-05-28T15:46:38 EDT" finished-at="2020-05-28T15:46:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_calculateMortgageWithDoubleValues -->
+        <test-method status="PASS" signature="GotoMortgageCalculator()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="GotoMortgageCalculator" is-config="true" duration-ms="1725" started-at="2020-05-28T15:46:40 EDT" finished-at="2020-05-28T15:46:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoMortgageCalculator -->
+        <test-method status="PASS" signature="TC3_calculateMortgageWithZeroMortgageAmount()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="TC3_calculateMortgageWithZeroMortgageAmount" duration-ms="1227" started-at="2020-05-28T15:46:42 EDT" finished-at="2020-05-28T15:46:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_calculateMortgageWithZeroMortgageAmount -->
+        <test-method status="PASS" signature="GotoMortgageCalculator()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="GotoMortgageCalculator" is-config="true" duration-ms="1012" started-at="2020-05-28T15:46:43 EDT" finished-at="2020-05-28T15:46:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoMortgageCalculator -->
+        <test-method status="PASS" signature="TC4_calculateMortgageWithZeroInterestRate()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="TC4_calculateMortgageWithZeroInterestRate" duration-ms="1274" started-at="2020-05-28T15:46:44 EDT" finished-at="2020-05-28T15:46:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_calculateMortgageWithZeroInterestRate -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:org.nyiso.tests.MortgageCalculator@7a1ebcd8]" name="Teardown" is-config="true" duration-ms="4333" started-at="2020-05-28T15:46:46 EDT" finished-at="2020-05-28T15:46:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- org.nyiso.tests.MortgageCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

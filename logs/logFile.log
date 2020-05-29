@@ -1,0 +1,170 @@
+2020-05-28 21:58:09 INFO  BaseTest:31 - Before Class Annotation
+2020-05-28 21:58:09 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:09 INFO  MortgageCalculator:35 - initiate Chrome driver
+2020-05-28 21:58:16 INFO  BaseTest:72 - Initialize BaseTest Class
+2020-05-28 21:58:16 INFO  BaseTest:61 - Set webdriver
+2020-05-28 21:58:18 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:18 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:18 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:18 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:18 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:19 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:19 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:22 INFO  MortgageCalculator:26 - TestCase 1 : TC1_calculateMortgageWithIntegerValues
+2020-05-28 21:58:22 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:22 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:22 INFO  MonthlyCostPage_Elements:12 - MonthlyCostPage elements : mortgageAmount_TxtBx 
+2020-05-28 21:58:22 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:22 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:22 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:22 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:22 INFO  MonthlyCostPage_Elements:15 - MonthlyCostPage elements : interestRate_TxtBx 
+2020-05-28 21:58:22 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:22 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:22 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:22 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:22 INFO  MonthlyCostPage_Elements:18 - MonthlyCostPage elements : mortgagePeriod_LstBx 
+2020-05-28 21:58:22 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:22 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:23 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:23 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:23 INFO  MonthlyCostPage_Elements:21 - MonthlyCostPage elements : mortgagePeriod_LstBxValues 
+2020-05-28 21:58:23 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:23 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:23 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:23 INFO  MortgageCalculator:116 - captureScreenshot
+2020-05-28 21:58:25 INFO  MortgageCalculator:137 - Get current time
+2020-05-28 21:58:25 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:25 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:25 INFO  MonthlyCostPage_Elements:24 - MonthlyCostPage elements : totalCostMortgage_LblTxt 
+2020-05-28 21:58:25 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:25 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:25 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:25 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:25 INFO  MonthlyCostPage_Elements:27 - MonthlyCostPage elements : monthlyPayments_LblTxt 
+2020-05-28 21:58:25 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:25 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:25 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:25 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:25 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:25 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:25 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:26 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:26 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:27 INFO  MortgageCalculator:40 - TestCase 2 : TC2_calculateMortgageWithDoubleValues
+2020-05-28 21:58:27 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:27 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:27 INFO  MonthlyCostPage_Elements:12 - MonthlyCostPage elements : mortgageAmount_TxtBx 
+2020-05-28 21:58:28 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:28 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:28 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:28 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:28 INFO  MonthlyCostPage_Elements:15 - MonthlyCostPage elements : interestRate_TxtBx 
+2020-05-28 21:58:28 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:28 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:29 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:29 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:29 INFO  MonthlyCostPage_Elements:18 - MonthlyCostPage elements : mortgagePeriod_LstBx 
+2020-05-28 21:58:29 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:29 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:29 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:29 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:29 INFO  MonthlyCostPage_Elements:21 - MonthlyCostPage elements : mortgagePeriod_LstBxValues 
+2020-05-28 21:58:29 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:29 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:29 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:29 INFO  MortgageCalculator:116 - captureScreenshot
+2020-05-28 21:58:31 INFO  MortgageCalculator:137 - Get current time
+2020-05-28 21:58:31 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:31 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:31 INFO  MonthlyCostPage_Elements:24 - MonthlyCostPage elements : totalCostMortgage_LblTxt 
+2020-05-28 21:58:31 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:31 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:31 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:31 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:31 INFO  MonthlyCostPage_Elements:27 - MonthlyCostPage elements : monthlyPayments_LblTxt 
+2020-05-28 21:58:31 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:31 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:31 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:31 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:31 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:31 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:31 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:32 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:32 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:33 INFO  MortgageCalculator:54 - TestCase 3 : TC3_calculateMortgageWithZeroMortgageAmount
+2020-05-28 21:58:33 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:33 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:33 INFO  MonthlyCostPage_Elements:12 - MonthlyCostPage elements : mortgageAmount_TxtBx 
+2020-05-28 21:58:33 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:33 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:34 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:34 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:34 INFO  MonthlyCostPage_Elements:15 - MonthlyCostPage elements : interestRate_TxtBx 
+2020-05-28 21:58:34 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:34 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:34 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:34 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:34 INFO  MonthlyCostPage_Elements:18 - MonthlyCostPage elements : mortgagePeriod_LstBx 
+2020-05-28 21:58:34 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:34 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:34 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:34 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:34 INFO  MonthlyCostPage_Elements:21 - MonthlyCostPage elements : mortgagePeriod_LstBxValues 
+2020-05-28 21:58:34 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:34 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:34 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:34 INFO  MortgageCalculator:116 - captureScreenshot
+2020-05-28 21:58:36 INFO  MortgageCalculator:137 - Get current time
+2020-05-28 21:58:36 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:36 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:36 INFO  MonthlyCostPage_Elements:24 - MonthlyCostPage elements : totalCostMortgage_LblTxt 
+2020-05-28 21:58:36 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:36 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:36 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:36 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:36 INFO  MonthlyCostPage_Elements:27 - MonthlyCostPage elements : monthlyPayments_LblTxt 
+2020-05-28 21:58:36 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:36 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:36 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:36 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:36 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:36 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:36 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:36 INFO  BaseTest:78 - Initialize GooglePage Elements class
+2020-05-28 21:58:36 INFO  GooglePage_Elements:13 -  Page elements of Google page
+2020-05-28 21:58:37 INFO  MortgageCalculator:68 - TestCase 4 : TC4_calculateMortgageWithZeroInterestRate
+2020-05-28 21:58:37 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:37 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:37 INFO  MonthlyCostPage_Elements:12 - MonthlyCostPage elements : mortgageAmount_TxtBx 
+2020-05-28 21:58:37 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:37 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:38 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:38 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:38 INFO  MonthlyCostPage_Elements:15 - MonthlyCostPage elements : interestRate_TxtBx 
+2020-05-28 21:58:38 INFO  MortgageCalculator:85 - Set text to  WebElement 
+2020-05-28 21:58:38 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:38 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:38 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:38 INFO  MonthlyCostPage_Elements:18 - MonthlyCostPage elements : mortgagePeriod_LstBx 
+2020-05-28 21:58:38 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:38 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:38 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:38 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:38 INFO  MonthlyCostPage_Elements:21 - MonthlyCostPage elements : mortgagePeriod_LstBxValues 
+2020-05-28 21:58:38 INFO  MortgageCalculator:70 - Click on WebElement 
+2020-05-28 21:58:38 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:38 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:38 INFO  MortgageCalculator:116 - captureScreenshot
+2020-05-28 21:58:39 INFO  MortgageCalculator:137 - Get current time
+2020-05-28 21:58:39 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:39 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:39 INFO  MonthlyCostPage_Elements:24 - MonthlyCostPage elements : totalCostMortgage_LblTxt 
+2020-05-28 21:58:39 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:39 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:39 INFO  BaseTest:66 - Initialize Commonfunction class
+2020-05-28 21:58:39 INFO  BaseTest:84 - Initialize MonthlyCostPageElements class
+2020-05-28 21:58:39 INFO  MonthlyCostPage_Elements:27 - MonthlyCostPage elements : monthlyPayments_LblTxt 
+2020-05-28 21:58:39 INFO  MortgageCalculator:101 - Get text of WebElement
+2020-05-28 21:58:39 INFO  MortgageCalculator:50 - Wait for WebElement
+2020-05-28 21:58:39 INFO  BaseTest:40 - After Class Annotation

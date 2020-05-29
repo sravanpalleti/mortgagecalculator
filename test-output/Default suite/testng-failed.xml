@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <parameter name="interestRate" value="param-val-not-found"/>
+  <parameter name="monthlyPayment" value="param-val-not-found"/>
+  <parameter name="mortageAmount" value="param-val-not-found"/>
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.nyiso.tests.MortgageCalculator">
+        <methods>
+          <include name="Teardown"/>
+          <include name="TC1_calculateMortgageWithIntegerValues" invocation-numbers="0"/>
+          <include name="setupBrowser"/>
+          <include name="intializeSetUp"/>
+        </methods>
+      </class> <!-- org.nyiso.tests.MortgageCalculator -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
