@@ -52,4 +52,4 @@ Maximum loan tab:
 I have automated Monthly Cost happy path scenarios: 1,2,4,5,6 and I would consider automating other scenarios as well 
 except entering special characters and negative numbers as the input parameters are currently accepting only positive numbers. 
 
-Note: I have attached screenshots of the test execution against my local machine.
+Note: I have attached the screenshots of the test execution results ran against my local machine.
