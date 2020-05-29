@@ -47,3 +47,4 @@ Prerequisite: Please check system requirements above
 2. Execute maven goals using POM.XML file that will download maven dependencies and also triggers the execution of test cases.
 NOTE: I have mapped all the test scenarios in suite file(TestNG.XML), the same file has been configured to trigger when POM.xml is executed.
 ----------------------------------------------------------------------------------------------------------------------------------------
+Manual test plan document named 'manual_testplan.txt' is added in the repository.
